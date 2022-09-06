@@ -1,45 +1,50 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bijay Khadka
+====================================================================================================================================
 
-<h1 align="center">
-Hi there, I'm Bijay Khadka Bijay</a> 👋
-</h1>
+Python Developer
+----------------
 
-<h2 align="center">
-I'm a Programmer 💻
-</h2> 
+I've been learning to code forever. I am passionate about the programming language python as it is the first programming language I dove deep into. I love learning and challenging myself.
 
-I love trying different things with the help of programming. I love learning and challenging myself.
-
-### 🤝 Connect with me:
-<a href="https://codepen.io/bijay4444" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/bijay4444" height="30" width="40" /></a>
-<a href="https://twitter.com/@bijay__khadka__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bijay__khadka__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bijay-khadka-32397118b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bijay-khadka-32397118b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13587861/bijay-khadka" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13587861/bijay-khadka" height="30" width="40" /></a>
-<a href="https://kaggle.com/bijaykhadka17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bijaykhadka17" height="30" width="40" /></a>
-<a href="https://instagram.com/bijay__khadka__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bijay__khadka__/" height="30" width="40" /></a>
-<a href="https://medium.com/@bk006822" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bk006822" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bijay444/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bijay444/" height="30" width="40" /></a>
-
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
-
-- Creating new projects
-- Learning Django Framework
-- My python skill
-
-## 🌱 I'm currently learning
-
-- Data Structure and Algorithms
-- Django 
-- API
-
-## 💼 Technical Skills
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
- 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijay4444&show_icons=true&locale=en" alt="bijay4444" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijay4444&" alt="bijay4444" /></p>
+*   🌍  I'm based in Kathmandu, Nepal
+*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/bijay-khadka-32397118b/)
+*   ✉️  You can contact me at [bk006822@gmail.com](mailto:bk006822@gmail.com)
+*   🧠  I'm learning Django Framework
+*   🤝  I'm open to collaborating on Python Projects
+*   ⚡  😄### Skills<p align="left">
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+                                <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.codepen.io/bijay4444" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://discord.com/users/Bijay4444#9668" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.dribbble.com/Bijay17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/Bijay4444" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/bijay__khadka__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/bijay-khadka-32397118b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.medium.com/@bk006822" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.stackoverflow.com/users/13587861/bijay-khadka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/Bijay__khadka__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Bijay4444"><img src="https://github-readme-stats.vercel.app/api?username=Bijay4444&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bijay4444's GitHub stats" /></a><a
+                      href="http://www.github.com/Bijay4444"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Bijay4444&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/Bijay4444"><img src="https://activity-graph.herokuapp.com/graph?username=Bijay4444&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
