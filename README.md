@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 ----------------
 
-Hello, there! I'm on an endless quest to learn and master the art of coding. I've been navigating the complexities of code for what feels like an eternity, thanks to a deep passion for the world of programming. My adventure began with an enduring fondness for Python, the first programming language I avidly explored.
-
 * 🌍  I'm based in Kathmandu, Nepal
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/bijay-khadka-32397118b/)
 * ✉️  You can contact me at [bk006822@gmail.com](mailto:bk006822@gmail.com)
